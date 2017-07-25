@@ -130,13 +130,21 @@ Os artefatos do Design Cultural têm os seguintes elementos:
 Este artefato se relaciona com a tensão, história e perguntas reveladoras apresentadas nas seções anteriores.
 
 > **Nome do Artefato**: Fuckup Beer
+
 > **Descrição \(resumida\):** É um happy hour mensal temático em que um convidado \(gestor, líder da organização\) compartilha uma história de fracasso total, juntamente com o que foi aprendido com isso. Os ouvintes, em uma roda, fazem perguntas e juntos celebram o fracasso com o contador do causo.
+
 > **Premissa**: Se as pessoas falarem sobre o fracasso de forma aberta e descontraída, então elas se sentirão mais livres para errar no dia a dia.
+
 > **Validação**: Pesquisa antes e depois do primeiro evento perguntando para as pessoas “como tratamos o erro nessa organização?”. Feedbacks e comentários de satisfação das pessoas sobre o evento realizado \(primeiro happy hour\).
+
 > **Feedbacks recebidos**:
+
 > _Legal! Será que não rola colocar também café e outras bebidas não alcóolicas?_
+
 > _Tem que ser Heineken!_
+
 > _Fico preocupado se algum líder vai topar participar disso._
+
 > _Acho que tudo vai voltar ao normal depois do evento. Não sei se isso vai ter um impacto na cultura._
 
 ### Checklist dos Artefatos
