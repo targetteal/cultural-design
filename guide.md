@@ -8,7 +8,7 @@ O Design Cultural é um método, onde um grupo de pessoas se debruça sobre as p
 
 Para a gente, cultura é:
 
-> **\[…\] o nosso jeito de pensar que influencia o nosso jeito de fazer, que por sua vez se reflete no nosso jeito de pensar.**
+> **O nosso jeito de pensar que influencia o nosso jeito de fazer, que por sua vez se reflete no nosso jeito de pensar.**
 
 Ou ainda:
 
@@ -16,9 +16,9 @@ Ou ainda:
 
 A cultura tem a ver com as crenças, valores e premissas dentro de uma organização. É quando nos deparamos com premissas como essas:
 
-* As coisas aqui funcionam desse jeito.
-* Ganha quem grita mais alto.
-* Para ser promovido é preciso puxar o saco do chefe!
+- As coisas aqui funcionam desse jeito.
+- Ganha quem grita mais alto.
+- Para ser promovido é preciso puxar o saco do chefe!
 
 Ela também se manifesta no que não ouvimos e no que não vemos. Por exemplo, guardar salários a sete chaves e não falar sobre isso é um traço cultural!
 
@@ -49,11 +49,11 @@ O Design Cultural segue alguns princípios que tornam o trabalho mais efetivo:
 * **Representativo o suficiente para investir.** O Squad de Cultura investe uma quantidade significativa de energia para resolver as tensões e criar os artefatos. Dessa forma, é importante que as tensões que eles resolvam sejam representativas para a organização. Ou seja, múltiplas pessoas reconhecem “aquilo” como algo relevante a ser tratado, por mais que tenham perspectivas diversas sobre a questão.
 * **Feedback bom é feedback dado.** O processo do DC conta muito com feedbacks e pitacos de pessoas de fora do Squad de Cultura. O grupo precisa estar disposto a buscar feedbacks sobre os artefatos o tempo todo.
 
-## **Tensões**
+## Tensões
 
 O cerne do trabalho do Design Cultural são as tensões. Elas são diferenças percebidas entre o que as pessoas vivem e o que elas gostariam de viver dentro de uma organização. Neste trabalho nós buscamos tensões que são vividas por diversas pessoas e que são, portanto, representativas.
 
-### **Exemplo: falsas vitórias**
+### Exemplo: falsas vitórias
 
 A tensão pode ser descrita através de um pequeno parágrafo. Veja esse exemplo:
 
@@ -61,7 +61,7 @@ A tensão pode ser descrita através de um pequeno parágrafo. Veja esse exemplo
 
 Perceba que a tensão captura tanto a realidade atual quanto a desejada. No entanto, o enfoque é maior nessa diferença entre o que eu vejo e o que eu gostaria. Como não temos muitos detalhes do que seria esse futuro desejado, precisamos do próximo elemento do Design Cultural: as histórias.
 
-## **Histórias**
+## Histórias
 
 As histórias são pequenos textos que descrevem algo que você gostaria de viver dentro da organização. Elas correspondem à outra fatia da tensão: o lugar que queremos encontrar no final. Ao descrevê-la, estamos respondendo a seguinte pergunta: que história esta organização está tentando contar por meio dessa tensão?
 
@@ -84,13 +84,13 @@ Poderíamos escrever a seguinte história:
 
 Para transformarmos a história em artefatos concretos, precisamos das perguntas reveladoras que são o próximo elemento do Design Cultural.
 
-## **Perguntas Reveladoras**
+## Perguntas Reveladoras
 
 A tensão descreve uma lacuna entre a situação presente e o que é desejado. A história nos permite visualizar o futuro que gostaríamos de viver ao resolver a tensão. No entanto, esses dois elementos não são suficientes para transformar a tensão em algo acionável! Para tornar o processo criativo e não entrar na armadilha da reclamação ou da resignação, utilizamos as perguntas reveladoras. Uma pergunta reveladora tem as seguintes características:
 
-- **Aberta: **com respostas que vão além do binário sim/não, concordo/discordo, isso/aquilo;
-- **Acionável: **cuja resposta seja uma ou mais ações em vez de explicações;
-- **Enxuta: **com um foco pequeno e bem delimitado sobre o tema.
+- **Aberta**: com respostas que vão além do binário sim/não, concordo/discordo, isso/aquilo;
+- **Acionável**: cuja resposta seja uma ou mais ações em vez de explicações;
+- **Enxuta**: com um foco pequeno e bem delimitado sobre o tema.
 
 As perguntas reveladoras são criadas em cima das histórias. Você deve buscar encontrar as perguntas que se respondidas ajudariam você a encontrar formas de viabilizar a história.
 
@@ -116,24 +116,24 @@ Um artefato pode ser praticamente qualquer coisa: um processo, um símbolo, um a
 
 Os artefatos do Design Cultural têm os seguintes elementos:
 
-- **Nome. **Deve ser bom e sonoro. Um artefato é algo que nos referimos com frequência e por isso precisa ser nomeado.
-- **Descrição. **Essa seção detalha o funcionamento do artefato.
-- **Premissa. **Todo artefato se baseia em uma premissa que é o motivo pelo qual você acredita que o artefato vai resolver a tensão.
-- **Tensão. **Que tensão esse artefato resolve ou reduz?
-- **Histórias. **Que histórias esse artefato sustenta?
-- **Perguntas Reveladoras. **Este artefato deve responder a uma ou mais perguntas reveladoras.
-- **Feedbacks. **Ao longo do processo, o artefato irá receber muitos feedbacks, que podem ser preocupações, potenciais melhorias, etc. Certifique-se de registrá-los!
-- **Validação. **A premissa de um artefato precisa ser validada o mais rápido possível! Nessa seção você deverá registar como essa validação vai acontecer.
+- **Nome**. Deve ser bom e sonoro. Um artefato é algo que nos referimos com frequência e por isso precisa ser nomeado.
+- **Descrição**. Essa seção detalha o funcionamento do artefato.
+- **Premissa**. Todo artefato se baseia em uma premissa que é o motivo pelo qual você acredita que o artefato vai resolver a tensão.
+- **Tensão**. Que tensão esse artefato resolve ou reduz?
+- **Histórias**. Que histórias esse artefato sustenta?
+- **Perguntas Reveladoras**. Este artefato deve responder a uma ou mais perguntas reveladoras.
+- **Feedbacks**. Ao longo do processo, o artefato irá receber muitos feedbacks, que podem ser preocupações, potenciais melhorias, etc. Certifique-se de registrá-los!
+- **Validação**. A premissa de um artefato precisa ser validada o mais rápido possível! Nessa seção você deverá registar como essa validação vai acontecer.
 
 ### Exemplo de um artefato: Fuckup Beer
 
 Este artefato se relaciona com a tensão, história e perguntas reveladoras apresentadas nas seções anteriores.
 
-> **Nome do Artefato: **Fuckup Beer
+> **Nome do Artefato**: Fuckup Beer
 > **Descrição \(resumida\):** É um happy hour mensal temático em que um convidado \(gestor, líder da organização\) compartilha uma história de fracasso total, juntamente com o que foi aprendido com isso. Os ouvintes, em uma roda, fazem perguntas e juntos celebram o fracasso com o contador do causo.
-> **Premissa: **Se as pessoas falarem sobre o fracasso de forma aberta e descontraída, então elas se sentirão mais livres para errar no dia a dia.
-> **Validação: **Pesquisa antes e depois do primeiro evento perguntando para as pessoas “como tratamos o erro nessa organização?”. Feedbacks e comentários de satisfação das pessoas sobre o evento realizado \(primeiro happy hour\).
-> **Feedbacks recebidos:**
+> **Premissa**: Se as pessoas falarem sobre o fracasso de forma aberta e descontraída, então elas se sentirão mais livres para errar no dia a dia.
+> **Validação**: Pesquisa antes e depois do primeiro evento perguntando para as pessoas “como tratamos o erro nessa organização?”. Feedbacks e comentários de satisfação das pessoas sobre o evento realizado \(primeiro happy hour\).
+> **Feedbacks recebidos**:
 > _Legal! Será que não rola colocar também café e outras bebidas não alcóolicas?_
 > _Tem que ser Heineken!_
 > _Fico preocupado se algum líder vai topar participar disso._
@@ -161,9 +161,9 @@ Conforme explicado na introdução, o Design Cultural é executado por um grupo 
 
 Antes de começar a trabalhar nos artefatos, você precisa identificar as principais tensões vividas na organização. Isso é geralmente feito em sessões de mapeamento de tensões, onde buscamos obter perspectivas diferentes sobre esses problemas. Nessas oficinas, diversos membros da organização podem participar e mapear as suas tensões respondendo às seguintes perguntas:
 
-* O que você gostaria que fosse diferente do que é?
-* Qual seria um caso real onde isso aconteceu?
-* Como você gostaria que tivesse acontecido?
+- O que você gostaria que fosse diferente do que é?
+- Qual seria um caso real onde isso aconteceu?
+- Como você gostaria que tivesse acontecido?
 
 Após colher as respostas, você pode propor algum método de priorização \(como o Dot Voting\) para entender quais são as tensões mais relevantes.
 
@@ -197,9 +197,9 @@ Entre as duas etapas de prototipagem existe um ritual de checkpoint onde o Squad
 
 Durante o período de prototipagem, o grupo geralmente se depara com um dos cenários abaixo:
 
-- **Premissa validada! **Uhuul, boas notícias! Nesse caso provavelmente o protótipo do artefato causou o impacto pretendido. Talvez nessa hora o Squad se empolgue e queira incrementar o artefato, melhorá-lo ou implantá-lo em mais grupos/áreas. Mas calma aí! Isso não é tarefa do Squad. Você deve parar imediatamente assim que validar a impressa. Veja a seção sobre implantação dos artefatos para mais detalhes.
-- **Premissa invalidada. **Parece um desfecho ruim, mas não se engane! Você aprendeu rapidamente algo que não funciona. Provavelmente o próximo passo é criar um novo artefato com outra premissa, mas que ainda resolva a tensão, ajude a contar a história e responda as perguntas reveladoras. Chame os seus colegas do Squad para um novo brainstorming de ideias!
-- **Resultados inconclusivos.** Humm! Às vezes o Squad irá se deparar com resultados inconclusivos depois da validação de um artefato. Existem múltiplos caminhos a partir daqui. Um deles é alterar a forma como você está medindo os resultados. Outro caminho é mudar o artefato completamente, considerando a premissa invalidada.
+- **Premissa validada!** Uhuul, boas notícias! Nesse caso provavelmente o protótipo do artefato causou o impacto pretendido. Talvez nessa hora o Squad se empolgue e queira incrementar o artefato, melhorá-lo ou implantá-lo em mais grupos/áreas. Mas calma aí! Isso não é tarefa do Squad. Você deve parar imediatamente assim que validar a impressa. Veja a seção sobre implantação dos artefatos para mais detalhes.
+- **Premissa invalidada**. Parece um desfecho ruim, mas não se engane! Você aprendeu rapidamente algo que não funciona. Provavelmente o próximo passo é criar um novo artefato com outra premissa, mas que ainda resolva a tensão, ajude a contar a história e responda as perguntas reveladoras. Chame os seus colegas do Squad para um novo brainstorming de ideias!
+- **Resultados inconclusivos**. Humm! Às vezes o Squad irá se deparar com resultados inconclusivos depois da validação de um artefato. Existem múltiplos caminhos a partir daqui. Um deles é alterar a forma como você está medindo os resultados. Outro caminho é mudar o artefato completamente, considerando a premissa invalidada.
 
 Agora que você já sabe como as iterações do Design Cultural são organizadas, seguiremos para o acompanhamento do progresso dos artefatos.
 
@@ -207,12 +207,12 @@ Agora que você já sabe como as iterações do Design Cultural são organizadas
 
 Para o acompanhamento dos artefatos, recomendamos que o Squad faça o uso de um quadro Kanban. O item que trafega nesse fluxo é um “experimento cultural”, que começa pela tensão e termina como um artefato. A medida que ele vai passando pelas etapas, mais informações vão sendo agregadas a este item, como uma história, perguntas reveladoras, a descrição do artefato, etc. O fluxo deverá ter as seguintes colunas:
 
-- **Backlog de Tensões. **Aqui constam todas as tensões mapeadas e que precisam ser endereçadas em algum momento pelo Squad de Cultura.
-- **Pré-Artefato. **Nesta coluna estão os itens que já possuem histórias e perguntas reveladoras, de acordo com os critérios de qualidade.
-- **Artefato Preparado. **O item é movido para cá quando estiver com a descrição do artefato completa. Ele precisa também ter os próximos passos de implementação definidos e atender aos critérios de “preparado”.
-- **Implementação do Protótipo. **No momento em que a primeira tarefa de implementação começar, o item deve ser movido para esta coluna. Nesta etapa o grupo deverá buscar feedbacks de pessoas externas, conselhos das pessoas afetadas e aprovação do artefato se necessário.
-- **Validação da Premissa. **Uma vez que o artefato for implementado, ele deverá ser movido para esta etapa, que indica que a premissa está em validação. Ou seja, o artefato deve estar sendo mensurado neste estágio.
-- **Validado / Invalidado. **Depois que o artefato for medido, os guardiões podem concluir se ele resolveu ou reduziu a tensão inicial. O item é movido para as colunas Validado ou Invalidado.
+- **Backlog de Tensões**. Aqui constam todas as tensões mapeadas e que precisam ser endereçadas em algum momento pelo Squad de Cultura.
+- **Pré-Artefato**. Nesta coluna estão os itens que já possuem histórias e perguntas reveladoras, de acordo com os critérios de qualidade.
+- **Artefato Preparado**. O item é movido para cá quando estiver com a descrição do artefato completa. Ele precisa também ter os próximos passos de implementação definidos e atender aos critérios de “preparado”.
+- **Implementação do Protótipo**. No momento em que a primeira tarefa de implementação começar, o item deve ser movido para esta coluna. Nesta etapa o grupo deverá buscar feedbacks de pessoas externas, conselhos das pessoas afetadas e aprovação do artefato se necessário.
+- **Validação da Premissa**. Uma vez que o artefato for implementado, ele deverá ser movido para esta etapa, que indica que a premissa está em validação. Ou seja, o artefato deve estar sendo mensurado neste estágio.
+- **Validado / Invalidado**. Depois que o artefato for medido, os guardiões podem concluir se ele resolveu ou reduziu a tensão inicial. O item é movido para as colunas Validado ou Invalidado.
 
 Algumas colunas possuem limites de capacidade, conforme indicado na figura abaixo:![](https://lh5.googleusercontent.com/YNh4WUcx44iUAOjLiDkYXBOgnURNu6O5QcovG6UA0YbC9LZZBmEBJhuBL0PPGJtnRW5jdW9FQvXvmYrxUg2Xs4M7PNkvzJQWFHbsh-tcAOMnvadAj-qnO-Dljp67hM2u2gaaXCg9)
 
@@ -220,17 +220,17 @@ Por exemplo, as colunas Pré-Artefato e Artefato Preparado possuem no total um l
 
 Os limites são importantes para:
 
-1. **Aumentar o foco. **O Squad precisa focar nos itens atuais antes de puxar novos. Isso aumenta a colaboração entre os membros do grupo quando o fluxo está cheio.
-2. **Reduzir o desperdício. **Com os limites estabelecidos é possível diminuir a chance de um experimento cultural se tornar obsoleto ou ficar muito tempo na etapa de implementação, por exemplo.
-3. **Aprendizado rápido. **Você só valida o experimento cultural quando ele chega na etapa final do fluxo. Com os limites, evitamos que um estoque de itens se acumule, e por consequência aumentamos a velocidade de validação desses experimentos.
+1. **Aumentar o foco**. O Squad precisa focar nos itens atuais antes de puxar novos. Isso aumenta a colaboração entre os membros do grupo quando o fluxo está cheio.
+2. **Reduzir o desperdício**. Com os limites estabelecidos é possível diminuir a chance de um experimento cultural se tornar obsoleto ou ficar muito tempo na etapa de implementação, por exemplo.
+3. **Aprendizado rápido**. Você só valida o experimento cultural quando ele chega na etapa final do fluxo. Com os limites, evitamos que um estoque de itens se acumule, e por consequência aumentamos a velocidade de validação desses experimentos.
 
 ### Checkpoint
 
 Para facilitar a auto-organização do Squad de Cultura, propomos o uso de um checkpoint entre as etapas de prototipação, conforme explicado na seção sobre as iterações do DC. Nesse encontro de 15 minutos, os membros do Squad, um a um respondem às três perguntas abaixo:
 
-* O que eu fiz desde o último encontro?
-* O que eu vou fazer a partir deste encontro?
-* O que está me impedindo?
+- O que eu fiz desde o último encontro?
+- O que eu vou fazer a partir deste encontro?
+- O que está me impedindo?
 
 Utilizando esse ritual simples, é possível aumentar a transparência no grupo e dar visibilidade ao andamento do fluxo.
 
@@ -244,9 +244,9 @@ Você tem um artefato bombástico que modifica um processo chave da organizaçã
 
 Existem três tipos de aprovação que o seu artefato pode precisar:
 
-- **Sem aprovação. **O seu artefato não vai afetar nenhum processo existente e não exige grandes investimentos de tempo e dinheiro? Talvez ele não precise de nenhum tipo de aprovação formal. Nesse caso, apenas siga em frente.
-- **Aprovação local. **O artefato pode afetar os processos de um único setor/departamento. Neste caso você deve buscar aprovação do gestor ou responsável pela área/processo afetada.
-- **Aprovação executiva. **Talvez o seu artefato afete toda a organização e demande um compromisso generalizado da empresa. Pode ser o caso se você está propondo uma alteração no sistema de ponto eletrônico, por exemplo. Nesse caso, você deve buscar aprovação de toda a empresa, que é geralmente representada por um grupo de gestores e/ou executivos.
+- **Sem aprovação**. O seu artefato não vai afetar nenhum processo existente e não exige grandes investimentos de tempo e dinheiro? Talvez ele não precise de nenhum tipo de aprovação formal. Nesse caso, apenas siga em frente.
+- **Aprovação local**. O artefato pode afetar os processos de um único setor/departamento. Neste caso você deve buscar aprovação do gestor ou responsável pela área/processo afetada.
+- **Aprovação executiva**. Talvez o seu artefato afete toda a organização e demande um compromisso generalizado da empresa. Pode ser o caso se você está propondo uma alteração no sistema de ponto eletrônico, por exemplo. Nesse caso, você deve buscar aprovação de toda a empresa, que é geralmente representada por um grupo de gestores e/ou executivos.
 
 Tente simplificar o seu protótipo o máximo possível para que você consiga trabalhar sem aprovação ou com apenas aprovação local. Lembre-se que o que interessa para o Squad é validar a premissa do artefato e não fazer uma grande implantação na organização.
 
@@ -254,8 +254,8 @@ Tente simplificar o seu protótipo o máximo possível para que você consiga tr
 
 Se você realmente precisa de algum tipo de aprovação, busque seguir esses passos:
 
-1. **Busque consentimento e não consenso. **Na hora de conversar com os aprovadores do seu artefato, não busque concordância ou consenso com a proposta. O que você precisa identificar é se as pessoas vêem algum mal irreversível que o protótipo do artefato possa causar. Isso nós chamamos de objeção. Se for o caso, anote essas objeções e siga para o próximo passo. Lembre-se que o artefato precisa ser seguro o suficiente para tentar. Ele não precisa ser perfeito, já que ele é um experimento antes de se tornar definitivo.
-2. **Integre as objeções encontradas.** Encontrou alguma objeção? Sem problemas, apenas busque integrá-la ao seu artefato junto com a pessoa que levantou a objeção. Tente encontrar alguma forma de ainda resolver a sua tensão original, mas sem causar a objeção levantada.
+1. **Busque consentimento e não consenso**. Na hora de conversar com os aprovadores do seu artefato, não busque concordância ou consenso com a proposta. O que você precisa identificar é se as pessoas vêem algum mal irreversível que o protótipo do artefato possa causar. Isso nós chamamos de objeção. Se for o caso, anote essas objeções e siga para o próximo passo. Lembre-se que o artefato precisa ser seguro o suficiente para tentar. Ele não precisa ser perfeito, já que ele é um experimento antes de se tornar definitivo.
+2. **Integre as objeções encontradas**. Encontrou alguma objeção? Sem problemas, apenas busque integrá-la ao seu artefato junto com a pessoa que levantou a objeção. Tente encontrar alguma forma de ainda resolver a sua tensão original, mas sem causar a objeção levantada.
 3. **Apoie-se nos outros membros do Squad**. Vai ter alguma conversa difícil com um gestor ou aprovador? Chame algum outro membro do Squad para ajudar você nesse processo. O objetivo não é que ele defenda você, mas que esteja ali ouvindo e oferecendo uma perspectiva diferente.
 
 Seguindo esses passos, você tem 99% de chance de obter aprovação. Se você ainda assim não conseguir, tente simplificar o artefato para que ele não precise de aprovação.
@@ -272,13 +272,13 @@ Qualquer que seja o caso, é importante entender que o Squad não é responsáve
 
 Após a validação da premissa de um artefato, o Squad deverá encaminhá-lo para implantação seguindo os passos abaixo:
 
-1. **Identificar áreas ou pessoas responsáveis. **Talvez o novo processo de demissão seja responsabilidade do RH. Talvez não. O Squad precisa identificar em que áreas, papéis ou pessoas o artefato melhor se encaixa.
-2. **Transferir informações sobre o experimento cultural. **Uma vez que o artefato já tenha um novo dono, o Squad deve transferir o máximo de informações possíveis sobre o experimento cultural para o responsável. Isso inclui qual é a tensão, história, perguntas reveladoras e os detalhes do artefato.
-3. **Envolvê-los no método do Design Cultural. **Por que não ensinar aos responsáveis o método do Design Cultural, para que eles possam resolver as próprias tensões de forma rápida e experimental? Isso pode reduzir a dependência da organização no Squad e tornar as coisas mais rápidas.
+1. **Identificar áreas ou pessoas responsáveis**. Talvez o novo processo de demissão seja responsabilidade do RH. Talvez não. O Squad precisa identificar em que áreas, papéis ou pessoas o artefato melhor se encaixa.
+2. **Transferir informações sobre o experimento cultural**. Uma vez que o artefato já tenha um novo dono, o Squad deve transferir o máximo de informações possíveis sobre o experimento cultural para o responsável. Isso inclui qual é a tensão, história, perguntas reveladoras e os detalhes do artefato.
+3. **Envolvê-los no método do Design Cultural**. Por que não ensinar aos responsáveis o método do Design Cultural, para que eles possam resolver as próprias tensões de forma rápida e experimental? Isso pode reduzir a dependência da organização no Squad e tornar as coisas mais rápidas.
 
 Você chegou até aqui? Parabéns! Poucas organizações têm a disciplina para tratar suas tensões culturais de forma tão eficaz. Considere-se vitorioso!
 
-## Iterando, iterando e aprendendo**
+## Iterando, iterando e aprendendo
 
 **Falar em falhar rápido é fácil, mas falhar rápido não é! **Se você praticou o Design Cultural, é provável que entenda o significado dessa frase. Muitas vezes o Squad fica apegado a um artefato que criou, para logo em seguida descobrir que a premissa não era válida. Nesse caso o Squad precisa alterar o artefato ou criar um novo. Nesse momento a frustração pode tomar conta, mas o Squad não pode se deixar abalar. Afinal, você só descobriu mais um jeito que não dá certo! Esse aprendizado vai ser importante para o próximo artefato.
 
