@@ -10,17 +10,13 @@ Para a gente, cultura é:
 
 > **O nosso jeito de pensar que influencia o nosso jeito de fazer, que por sua vez se reflete no nosso jeito de pensar.**
 
-Ou ainda:
-
-> **Crenças geram ações que geram resultados que reforçam as nossas crenças.**
-
-A cultura tem a ver com as crenças, valores e premissas dentro de uma organização. É quando nos deparamos com premissas como essas:
+A cultura tem a ver com as crenças, valores e premissas dentro de uma organização. É quando nos deparamos com questões como essas no ambiente de trabalho:
 
 - As coisas aqui funcionam desse jeito.
 - Ganha quem grita mais alto.
 - Para ser promovido é preciso puxar o saco do chefe!
 
-Ela também se manifesta no que não ouvimos e no que não vemos. Por exemplo, guardar salários a sete chaves e não falar sobre isso é um traço cultural!
+A cultura também se manifesta no que não ouvimos e no que não vemos. Por exemplo, guardar salários a sete chaves e não falar sobre isso é um traço cultural!
 
 No método do Design Cultural, buscamos mudar a cultura organizacional através das tensões sentidas pelas pessoas e das histórias que elas gostariam de contar sobre a organização. 🙂
 
@@ -36,7 +32,29 @@ Como dito no início dessa seção, o Design Cultural é um método. No entanto,
 
 ### Artefatos Práticos
 
-O Squad de Cultura trabalha para produzir artefatos práticos, que podem compreender desde uma mudança simples no local de trabalho até uma nova proposta de modelo de remuneração. Em geral, os artefatos menores e mais simples são favorecidos, pois geram resultados mais rapidamente. A imagem ao lado contém um exemplo.
+O Squad de Cultura trabalha para produzir artefatos práticos, que podem compreender desde uma mudança em um ritual de trabalho até uma nova proposta de modelo de remuneração. Em geral, os artefatos menores e mais simples são favorecidos, pois geram resultados mais rapidamente. Veja o exemplo abaixo de um artefato que resolve uma tensão cultural chamada de "o vôo da galinha":
+
+>**Tensão**: Começamos muitos projetos, iniciativas e tarefas por aqui, mas temos a tendência de não concluir a maioria dessas coisas. Temos dificuldade em dizer não.
+>
+> **História**: A empresa onde trabalho é incrível porque aqui já entendemos que não é possível ser incrível sozinho. Nosso jeito de mostrar isso é dando o máximo para honrar nossos acordos e fazendo aquilo que acreditamos ser o melhor a ser feito.
+>
+>**Pergunta(s) Reveladoras**: Como podemos dizer não com mais facilidade?
+>
+>**Artefato**:
+>
+>Campanha de endomarketing incentivando os funcionários a dizerem mais não no seu dia a dia. Cada funcionário recebe, semanalmente, uma determinada quantidade de Stop Cards que precisa ser gasta até o fim da semana. 
+>
+>Um lado do card é vermelho com a palavra NÃO em letras garrafais. Do outro lado, o card é branco e está escrito PORQUE EU… (espaço para a justificativa). Os cards são soberanos à qualquer pedido de qualquer pessoa e por qualquer razão. Para sacramentar isso o CEO inaugura a campanha em fórum coletivo explicando o processo e já distribuindo alguns de seus cards.
+>
+>**Custos envolvidos**: impressão dos cards.
+>
+> **Premissa do artefato**: Dizer “não” se torna mais admissível quando a maior parte do grupo também faz isso e a organização reforça esse comportamento. A recusa forçada de demandas cria uma priorização que traz ganhos para a confiança e produtividade.  
+> 
+> **Validação**:
+>  
+> 1. Percepção de valor dos participantes da campanha
+> 2. Engajamento: percentual de cards utilizados (mês a mês)
+> 3. Evolução na pesquisa de clima
 
 ### Princípios
 
