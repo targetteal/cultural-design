@@ -13,7 +13,9 @@ Para a gente, cultura é:
 A cultura tem a ver com as crenças, valores e premissas dentro de uma organização. É quando nos deparamos com questões como essas no ambiente de trabalho:
 
 > _As coisas aqui funcionam desse jeito._
+>
 > _Ganha quem grita mais alto._
+>
 > _Para ser promovido é preciso puxar o saco do chefe!_
 
 A cultura também se manifesta no que não ouvimos e no que não vemos. Por exemplo, guardar salários a sete chaves e não falar sobre isso é um traço cultural!
