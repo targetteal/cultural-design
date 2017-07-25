@@ -280,7 +280,7 @@ Você chegou até aqui? Parabéns! Poucas organizações têm a disciplina para 
 
 ## Iterando, iterando e aprendendo
 
-**Falar em falhar rápido é fácil, mas falhar rápido não é! **Se você praticou o Design Cultural, é provável que entenda o significado dessa frase. Muitas vezes o Squad fica apegado a um artefato que criou, para logo em seguida descobrir que a premissa não era válida. Nesse caso o Squad precisa alterar o artefato ou criar um novo. Nesse momento a frustração pode tomar conta, mas o Squad não pode se deixar abalar. Afinal, você só descobriu mais um jeito que não dá certo! Esse aprendizado vai ser importante para o próximo artefato.
+**Falar em falhar rápido é fácil, mas falhar rápido não é!** Se você praticou o Design Cultural, é provável que entenda o significado dessa frase. Muitas vezes o Squad fica apegado a um artefato que criou, para logo em seguida descobrir que a premissa não era válida. Nesse caso o Squad precisa alterar o artefato ou criar um novo. Nesse momento a frustração pode tomar conta, mas o Squad não pode se deixar abalar. Afinal, você só descobriu mais um jeito que não dá certo! Esse aprendizado vai ser importante para o próximo artefato.
 
 Pessoas são complexas, cultura organizacional nem se fala. Não caia na tentação de ficar analisando os problemas. Você só vai descobrir quando testar! Na nossa experiência, a melhor forma de mudar a cultura é através de experimentos práticos, não de planos de ação e análises de causa-raiz.
 
